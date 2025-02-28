@@ -1,6 +1,3 @@
-# DasKomp
-A simple compression app always ready to be used !
-
 <div align="center">
   <img src="DasKomp.png" alt="DasKomp Logo" width="128" height="128">
   <h3>A simple, powerful file compression tool for desktop</h3>
